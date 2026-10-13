@@ -1,0 +1,21 @@
+# Build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Local configuration and secrets
+src/main/resources/application.properties
+
+
+Frontend dependencies and build output
+
+train-seat-frontend/node_modules/
+train-seat-frontend/dist/
+
+Frontend local secrets
+
+train-seat-frontend/.env
+train-seat-frontend/.env.*
+!train-seat-frontend/.env.example
