@@ -37,6 +37,15 @@ Java · Spring Boot · Spring Data JPA · MySQL · React · Vite · Docker
 <img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/38c6d69a-1497-4639-95e2-89fb4a273415" />
 
 
+###demo video
+
+
+https://github.com/user-attachments/assets/c74277af-d2a8-49cf-a288-cb1382f39ade
+
+
+
+
+
 
 ### Running Locally
 
